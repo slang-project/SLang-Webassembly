@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlangWebassembly", "SlangWebassembly.csproj", "{C08B43FF-B85A-4160-9750-EC22C03385F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLangWebassembly", "SLangWebassembly.csproj", "{C08B43FF-B85A-4160-9750-EC22C03385F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
