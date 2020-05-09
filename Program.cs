@@ -1,4 +1,4 @@
-﻿namespace SlangWebassembly
+﻿namespace SLangWebassembly
 {
     internal class Program
     {
